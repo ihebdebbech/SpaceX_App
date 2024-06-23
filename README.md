@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a flutter application that display alot of spacex informations and utilize its very own api to display all its launches and missions , when you click on certain mission or launch you can still more informations about it , these features are accessible online and offline mode
+This project is a flutter application that display alot of spacex informations and utilize its very own api to display all its launches and missions , when you click on certain mission or launch you can still more informations about it ,you can also search for specific launches or missions . these features are accessible online and offline mode
 
 
 ## Assets
